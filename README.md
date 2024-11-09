@@ -1,4 +1,4 @@
-![National](https://github.com/user-attachments/assets/2103ccbb-ae25-48ca-87b8-1a8a7ee9114e)
+![National](https://github.com/user-attachments/assets/3da9784d-029a-49ac-a577-6d03c178f73b)
 
 > Experimental national modernization plan creator.
 #
